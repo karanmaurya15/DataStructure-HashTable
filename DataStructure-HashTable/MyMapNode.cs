@@ -77,6 +77,5 @@ namespace DataStructure_HashTable
         public k Key { get; set; }
         public v Value { get; set; }
     }
-
 }
 
